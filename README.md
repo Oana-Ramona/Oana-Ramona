@@ -2,7 +2,7 @@
 
 ✨✨ Recruiter @Gameloft Bucharest for the Creation Department where my colleagues develop games for mobile, PC & consoles. ✨✨
 
-- 👀 Currently, I am seeking passionate C++ Gameplay Programmers for an unannounced open world PC / console title. 
+- 👀 Currently, I am seeking passionate C++ Gameplay Programmers for an 🎮 unannounced open world PC / console title 🎮
 If you are looking for a fun place to work, take a look here to find out what technical challenges you can encounter-> https://smrtr.io/76rRb 
 
 ✨Maybe you can be our next great talent!✨
